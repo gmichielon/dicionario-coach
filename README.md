@@ -1,2 +1,2 @@
-# dicionário-coach
+# dicionario-coach
 Traduções do Coach do Chess.com
