@@ -6,6 +6,7 @@
   "A Mistake is a bad move that immediately worsens your position.": "TRADUZIR",
   "A new attacker joins the pressure on the rook.": "TRADUZIR",
   "Always look for checks, captures and attacks.": "TRADUZIR",
+  "An interesting, developing move that controls the d4 and e5 squares.": "TRADUZIR",
   "Black defends the center pawn and allows the dark-squared bishop to develop.": "TRADUZIR",
   "Black fights for central control while attacking the white pawn.": "TRADUZIR",
   "Black kept their foot on the gas pedal and got the middlegame checkmate.": "TRADUZIR",
@@ -29,6 +30,7 @@
   "Pushing the pawn gives White a space advantage.": "TRADUZIR",
   "Pushing the pawn to the center and attacking the key dark squares.": "TRADUZIR",
   "Setting up a solid game with a patient first move.": "TRADUZIR",
+  "Starting aggressive with the Sicilian Defense.": "TRADUZIR",
   "Starting strong with a fundamental, versatile first move.": "TRADUZIR",
   "Starting with a fundamental move. This opening favors patient players.": "TRADUZIR",
   "Starting with a patient move and building a strong defense.": "TRADUZIR",
@@ -50,6 +52,7 @@
   "The current format for writing chess moves down, algebraic notation, was formalized in 1981.": "TRADUZIR",
   "The evaluation graph calculates player advantage after each move.": "TRADUZIR",
   "The knight is feeling the heat now. Solid stuff.": "TRADUZIR",
+  "The knight's out, and the center's shored up... I guess. Plenty to unpack in the Sicilian here.": "TRADUZIR",
   "There was a better way to capture this same piece, which would have led to a better material difference.": "TRADUZIR",
   "This activates a piece and simultaneously wins time by attacking a queen.": "TRADUZIR",
   "This avoids clear danger.": "TRADUZIR",
@@ -86,5 +89,6 @@
   "White had the advantage, but it wasn't until their crucial middlegame tactic that they secured the win.": "TRADUZIR",
   "With some precise moves, Black will be able to overload the opponent's piece and win a pawn.": "TRADUZIR",
   "With the right follow-up, this will lead to checkmate. Checking the king away? Winning a piece, nice.": "TRADUZIR",
-  "You get a chance to checkmate the king.": "TRADUZIR"
+  "You get a chance to checkmate the king.": "TRADUZIR",
+  "c3 controls the d4 square, prepares the d4 pawn push and allows the queen to develop to the queenside.": "TRADUZIR"
 }
